@@ -1,2 +1,3 @@
-O string SCHOOL school date date
-!:mime school
+#!/bin/bash
+O string SCHOOL School data
+!:mime School
